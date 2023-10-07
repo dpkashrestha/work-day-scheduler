@@ -4,6 +4,7 @@
 This repository contains code for a work day scheduler webpage. 
 
 ## Screenshot
+![workdayscheduler-screenshot](https://github.com/dpkashrestha/work-day-scheduler/assets/142865374/0f3f9036-4dcf-45e1-8f38-3649db8a262d)
 
 
 ## Deployment
