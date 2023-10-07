@@ -24,6 +24,12 @@ textarea {
   border-top: 1px solid white;
 }
 
+#save-notification {
+  min-height: 30px;
+  text-align: center;
+  color: rgb(25, 215, 47);
+}
+
 .hour {
   background-color: #ffffff;
   color: #000000;
